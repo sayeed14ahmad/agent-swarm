@@ -1,0 +1,14 @@
+CASE STUDY: FinNova Capital — Small-Business Loan Pilot
+BUDGET: INR 30 crore lending capital, INR 60 lakh customer-acquisition budget.
+CONSTRAINTS:
+- Max 700 loans in the pilot.
+- Portfolio default rate must stay at or below 5%.
+- Average customer interest rate must not exceed 19% p.a.
+- No single segment may receive more than 70% of deployed capital.
+- At least INR 3 crore must remain undeployed as liquidity.
+- Cost of funds: 10% p.a. Servicing/collections: 1.5% of principal.
+- Product setup cost: INR 18 lakh (deducted from the acquisition budget).
+SEGMENTS:
+1. Retail shops        - avg loan INR 4 lakh, 5.0% default, 1500 demand, INR 2000 CAC
+2. Service SMEs         - avg loan INR 6 lakh, 3.5% default,  900 demand, INR 3500 CAC
+3. Small manufacturers  - avg loan INR 9 lakh, 4.5% default,  450 demand, INR 5500 CAC
