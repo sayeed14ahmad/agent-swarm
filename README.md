@@ -1,4 +1,4 @@
-```markdown
+
 # FinNova Capital Boardroom Swarm
 
 ## 1. Team Information
@@ -48,7 +48,6 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 # Install the required packages (OpenAI SDK and Streamlit)
 pip install openai streamlit
 
-```
 
 **Configuration:**
 API keys are securely excluded from version control. Configure your environment variables in your active terminal session before running the application:
